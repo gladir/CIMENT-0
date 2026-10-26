@@ -1,5 +1,9 @@
 # CIMENT-0
-Suite de commande écrit en Turbo Pascal/Free Pascal pour le ciment et le béton
+Suite de commande écrit en Turbo Pascal/Free Pascal pour le ciment et le béton.
+
+Aperçu de VCCTL :
+
+<img width="641" height="482" alt="image" src="https://github.com/user-attachments/assets/473b8902-15a2-459b-8dd0-61a7f086ed2f" />
 
 <h2>Liste des fichiers</h3>
 
