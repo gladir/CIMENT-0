@@ -1,5 +1,14 @@
+{ @author: Sylvain Maltais (support@gladir.com)
+  @created: 2026
+  @version: 1.00
+  @website(https://www.gladir.com/ciment-0)
+  @abstract(Target: Turbo Pascal 7, Free Pascal
+  @description: Calculs de beton en ligne de commande
+}
+
+Program Beton;
+
 { ======================================================================
-  BETON.PAS - Calculs de beton en ligne de commande
 
   Compatible Turbo Pascal 7 et Free Pascal.
   Aucune dependance : seule l'unite Dos est utilisee (pour la date du
@@ -14,7 +23,6 @@
     - rapport eau/ciment par defaut  0.50
     - sable = 40 % du volume des granulats, gravier = 60 %
   ====================================================================== }
-program Beton;
 
 uses Dos;
 
