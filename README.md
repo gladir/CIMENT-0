@@ -5,6 +5,14 @@ Aperçu de VCCTL :
 
 <img width="641" height="482" alt="image" src="https://github.com/user-attachments/assets/473b8902-15a2-459b-8dd0-61a7f086ed2f" />
 
+Aperçu de CEMGEMS :
+
+<img width="640" height="480" alt="Aperçu de CEMGEMS : hydratation d'un ciment avec laitier" src="SAMPLES/CEMGEMS/APERCU.PNG" />
+
+Aires empilées des phases en fonction du temps (échelle logarithmique) :
+
+<img width="640" height="480" alt="Aires empilées des phases dans CEMGEMS" src="SAMPLES/CEMGEMS/APERCU2.PNG" />
+
 <h2>Liste des fichiers</h3>
 
 Voici la liste des différents fichiers proposés dans CIMENT-0 :
@@ -19,12 +27,12 @@ Voici la liste des différents fichiers proposés dans CIMENT-0 :
     <td>Cette commande permet de calculer le béton (volume, dosage, masse, rapport eau/ciment, résistance à la compression, formulation).</b>
   </tr>
   <tr>
-	  <td><b>VCCTL.PAS</b></td>
-	  <td>Cette commande permet de simuler, à la manière du logiciel VCCTL (Virtual Cement and Concrete Testing Laboratory), la microstructure 3D et l'hydratation d'une pâte de ciment (ciment Portland, cendres volantes, laitier, calcaire, fumée de silice) par automate cellulaire, puis d'estimer ses propriétés : degré d'hydratation, chaleur dégagée, retrait chimique, porosité, percolation, distribution des pores, modules élastiques, résistance à la compression, conductivité et diffusivité, zone de transition interfaciale.</td>
-  </tr>
-  <tr>
 	  <td><b>CEMGEMS.PAS</b></td>
 	  <td>Cette commande permet de modéliser, à la manière du logiciel CemGEMS (cemgems.org), l'équilibre thermodynamique d'un matériau cimentaire (minimisation de l'énergie libre de Gibbs, base inspirée de Cemdata18) : hydratation (cinétique de Parrot-Killoh), mélange (balayage de recette), lixiviation, carbonatation et pénétration de sels. Elle fournit l'assemblage de phases (g et cm³ pour 100 g de liant, aires empilées en fonction du temps), la composition de la solution interstitielle (pH, force ionique, concentrations, conductivité), la porosité et la chaleur d'hydratation.</td>
+  </tr>
+  <tr>
+	  <td><b>VCCTL.PAS</b></td>
+	  <td>Cette commande permet de simuler, à la manière du logiciel VCCTL (Virtual Cement and Concrete Testing Laboratory), la microstructure 3D et l'hydratation d'une pâte de ciment (ciment Portland, cendres volantes, laitier, calcaire, fumée de silice) par automate cellulaire, puis d'estimer ses propriétés : degré d'hydratation, chaleur dégagée, retrait chimique, porosité, percolation, distribution des pores, modules élastiques, résistance à la compression, conductivité et diffusivité, zone de transition interfaciale.</td>
   </tr>
 </table>
 
