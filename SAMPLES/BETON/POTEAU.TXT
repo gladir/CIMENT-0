@@ -1,0 +1,10 @@
+; Formulation complete (tous les composants sont imposes)
+; Beton de poteau, faible rapport E/C (0.43) - virgule decimale acceptee
+NOM=Poteau de structure
+VOLUME=0,8
+CIMENT=400
+EAU=172
+SABLE=700
+GRAVIER=1090
+PERTE=3
+SAC=30

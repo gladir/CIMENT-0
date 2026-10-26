@@ -1,0 +1,7 @@
+; Semelle filante de fondation - volume connu, beton dose a 300 kg/m3
+; Le sable, le gravier et l'eau sont deduits automatiquement.
+NOM=Semelle filante de fondation
+VOLUME=2.4
+CIMENT=300
+PERTE=8
+SAC=40

@@ -1,0 +1,4 @@
+; Formulation minimale : seul le volume est obligatoire.
+; Dosage 350 kg/m3, eau, sable et gravier sont calcules par defaut.
+NOM=Trottoir
+VOLUME=1.2

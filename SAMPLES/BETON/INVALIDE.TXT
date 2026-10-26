@@ -1,0 +1,5 @@
+; Fichier volontairement incorrect, pour tester les messages d'erreur :
+;   BETON -melange SAMPLES\BETON\INVALIDE.TXT
+NOM=Exemple invalide
+VOLUME=3
+CIMENT=abc
