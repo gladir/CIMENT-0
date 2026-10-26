@@ -1,0 +1,19 @@
+BETON 1.0 - Rapport de calcul du 2026-10-26
+============================================================
+
+=== Melange : SAMPLES\BETON\DALLE.TXT ===
+Formulation          : Dalle de garage 6 m x 3 m x 12 cm
+Volume de beton      : 2.160 m3
+Dosage en ciment     : 350 kg/m3
+Rapport eau/ciment   : 0.50
+Perte prevue         : 5 %
+
+  Materiau    Par m3          Total     Avec perte
+  Ciment       350.0 kg       756.0 kg       793.8 kg
+  Sable        733.6 kg      1584.6 kg      1663.9 kg
+  Gravier     1100.4 kg      2376.9 kg      2495.8 kg
+  Eau          175.0 L        378.0 L        396.9 L
+
+Sacs de ciment de 25 kg : 32 (avec perte)
+Masse volumique theorique : 2359 kg/m3
+Masse totale de beton     : 5.096 t (sans perte)

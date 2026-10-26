@@ -1,0 +1,25 @@
+; ============================================================
+; Formulation : dalle de garage
+; Utilisation : BETON -melange SAMPLES\BETON\DALLE.TXT
+;
+; Format : une ligne CLE=VALEUR (les lignes commencant par ; ou #
+; sont des commentaires). Cles reconnues :
+;   NOM        Titre de la formulation (texte libre)
+;   VOLUME     Volume de beton en m3
+;   LONGUEUR   \  Dimensions de la dalle en metres, a la place de VOLUME
+;   LARGEUR     > (les trois ensemble)
+;   EPAISSEUR  /
+;   CIMENT     Dosage en ciment, kg par m3 (defaut : 350)
+;   EAU        Eau en litres par m3 (defaut : 0.5 x ciment)
+;   SABLE      Sable en kg par m3 (deduit si absent)
+;   GRAVIER    Gravier en kg par m3 (deduit si absent)
+;   PERTE      Perte prevue en % (defaut : 5)
+;   SAC        Poids d'un sac de ciment en kg (defaut : 25)
+; ============================================================
+NOM=Dalle de garage 6 m x 3 m x 12 cm
+LONGUEUR=6
+LARGEUR=3
+EPAISSEUR=0.12
+CIMENT=350
+PERTE=5
+SAC=25
